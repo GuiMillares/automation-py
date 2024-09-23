@@ -1,7 +1,5 @@
 # Automação Web com Selenium
 
----
-
 ## Visão Geral
 
 Este projeto utiliza a biblioteca **Selenium** para automatizar interações em uma página web específica, simulando o comportamento de um usuário humano. O código permite realizar tarefas como login, navegação e cliques em elementos de forma automática, o que é especialmente útil para rotinas repetitivas.
