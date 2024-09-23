@@ -27,9 +27,9 @@ pip install selenium webdriver-manager
 
 O código está configurado para funcionar tanto no Google Chrome quanto no Mozilla Firefox. Dependendo do navegador que você deseja usar, o driver apropriado será instalado automaticamente pelo **WebDriver Manager**.
 
-## Versão Chrome
+## [Versão Chrome](https://github.com/GuiMillares/automation-py/blob/main/login-aut-chrome.py)
 
-## Versão Firefox
+## [Versão Firefox](https://github.com/GuiMillares/automation-py/blob/main/login-aut-mozilla.py)
 
 
 ## Funcionalidades do Código
